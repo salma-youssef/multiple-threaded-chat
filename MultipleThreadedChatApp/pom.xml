@@ -5,11 +5,11 @@
   <version>0.0.1-SNAPSHOT</version>
   
       <dependencies>
-      <!--<dependency>
+      <dependency>
             <groupId>loginpackage</groupId>
             <artifactId>login-jar</artifactId>
             <version>1.0</version>
-        </dependency>-->
+        </dependency>
         <dependency>
             <groupId>junit</groupId>
             <artifactId>junit</artifactId>
